@@ -1,0 +1,39 @@
+2025/10/28-14:09:58.551 4078 Reusing MANIFEST C:\Users\User\OneDrive\Desktop\python project self\brave_wa_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/28-14:09:58.552 4078 Recovering log #112
+2025/10/28-14:09:58.560 4078 Reusing old log C:\Users\User\OneDrive\Desktop\python project self\brave_wa_profile\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000112.log 
+2025/10/28-14:09:59.160 4078 Level-0 table #118: started
+2025/10/28-14:09:59.169 4078 Level-0 table #118: 186458 bytes OK
+2025/10/28-14:09:59.171 4078 Delete type=0 #112
+2025/10/28-14:09:59.172 2088 Manual compaction at level-0 from '\x00,\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00-\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/28-14:10:01.027 2088 Compacting 1@1 + 2@2 files
+2025/10/28-14:10:01.091 2088 Generated table #119@1: 41393 keys, 2209776 bytes
+2025/10/28-14:10:01.111 2088 Generated table #120@1: 17997 keys, 604125 bytes
+2025/10/28-14:10:01.112 2088 Compacted 1@1 + 2@2 files => 2813901 bytes
+2025/10/28-14:10:01.113 2088 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/10/28-14:10:01.660 e48 Level-0 table #122: started
+2025/10/28-14:10:01.664 e48 Level-0 table #122: 26461 bytes OK
+2025/10/28-14:10:01.666 e48 Delete type=2 #114
+2025/10/28-14:10:01.666 e48 Delete type=2 #115
+2025/10/28-14:10:01.666 e48 Delete type=0 #117
+2025/10/28-14:10:01.666 e48 Delete type=2 #118
+2025/10/28-14:10:01.675 2088 Manual compaction at level-0 from '\x00-\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/28-14:10:03.041 a24 Compacting 1@1 + 2@2 files
+2025/10/28-14:10:03.106 a24 Generated table #123@1: 41467 keys, 2209441 bytes
+2025/10/28-14:10:03.130 a24 Generated table #124@1: 18024 keys, 607446 bytes
+2025/10/28-14:10:03.131 a24 Compacted 1@1 + 2@2 files => 2816887 bytes
+2025/10/28-14:10:03.132 a24 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/10/28-14:10:03.133 a24 Delete type=2 #119
+2025/10/28-14:10:03.133 a24 Delete type=2 #120
+2025/10/28-14:10:03.133 a24 Delete type=2 #122
+2025/10/28-14:10:06.404 2088 Level-0 table #126: started
+2025/10/28-14:10:06.411 2088 Level-0 table #126: 167869 bytes OK
+2025/10/28-14:10:06.413 2088 Delete type=0 #121
+2025/10/28-14:10:06.414 2088 Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/28-14:10:07.852 a24 Compacting 1@1 + 2@2 files
+2025/10/28-14:10:07.892 a24 Generated table #127@1: 41990 keys, 2209648 bytes
+2025/10/28-14:10:07.912 a24 Generated table #128@1: 18311 keys, 623899 bytes
+2025/10/28-14:10:07.912 a24 Compacted 1@1 + 2@2 files => 2833547 bytes
+2025/10/28-14:10:07.913 a24 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/10/28-14:10:07.914 a24 Delete type=2 #123
+2025/10/28-14:10:07.914 a24 Delete type=2 #124
+2025/10/28-14:10:07.914 a24 Delete type=2 #126

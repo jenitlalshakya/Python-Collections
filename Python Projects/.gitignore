@@ -1,0 +1,43 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment / env folders
+venv/
+.env/
+.env
+
+# Cache / AI session files
+.gemini_cache.json
+*.cache
+*.sqlite3
+
+# Media files (you said you deleted images/music)
+*.mp3
+*.mp4
+*.wav
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build / spec files (PyInstaller, etc.)
+*.spec
+dist/
+build/
+
+# Logs
+*.log
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

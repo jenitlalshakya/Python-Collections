@@ -1,0 +1,41 @@
+beautifulsoup4
+discord.py
+google-genai
+imageio-ffmpeg
+instaloader
+matplotlib
+numpy
+psutil
+PySimpleGUI
+# pyaudio
+# pygame
+pyfiglet
+python-dotenv
+python-slugify
+pytubefix
+requests
+Pillow
+# pillow-heif
+# pillow-avif-plugin
+yt-dlp
+customtkinter
+cryptography
+pyperclip
+qrcode
+opencv-python
+pyzbar
+SpeechRecognition
+pyttsx3
+pywhatkit
+schedule
+dateparser
+selenium
+webdriver-manager
+colorama
+pdfplumber
+sentence-transformers
+faiss-cpu
+tqdm
+scikit-learn
+networkx
+pyshorteners
